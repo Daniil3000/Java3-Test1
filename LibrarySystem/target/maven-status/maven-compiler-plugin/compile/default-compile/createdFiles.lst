@@ -1,0 +1,6 @@
+com\johnabbott\libsyst\configuration\WebMvcConfig.class
+com\johnabbott\libsyst\controller\MyController.class
+com\johnabbott\libsyst\configuration\WebAppInitializer.class
+com\johnabbott\libsyst\model\Book.class
+com\johnabbott\libsyst\service\LibraryServiceImpl.class
+com\johnabbott\libsyst\service\LibraryService.class
